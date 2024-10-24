@@ -38,12 +38,12 @@ The project includes the following features:
 - CRUD operations for Farmers and Crop Listings.
 - Real-time chat between farmers and buyers.
 
+![Websit photos](./Home.png)
+![image](./chat.png)
+![image](./Task.png)
 
 ## Contributers
 
 - Naitik Patel
 - Meet Mistry
 
-![Websit photos](./asset/Home.png)
-![image](./asset/chat.png)
-![image](./asset/Task.png)
