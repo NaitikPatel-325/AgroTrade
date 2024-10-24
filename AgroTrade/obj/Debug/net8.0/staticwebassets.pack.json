@@ -305,12 +305,24 @@
       "PackagePath": "staticwebassets\\uploads\\pexels-mali-143133_vg01drvm.k0h.jpg"
     },
     {
+      "Id": "D:\\Project\\AgroTrade\\AgroTrade\\wwwroot\\uploads\\pexels-mali-143133_x5vdfhef.b52.jpg",
+      "PackagePath": "staticwebassets\\uploads\\pexels-mali-143133_x5vdfhef.b52.jpg"
+    },
+    {
       "Id": "D:\\Project\\AgroTrade\\AgroTrade\\wwwroot\\uploads\\pexels-nietjuh-872400_mvqzvjzm.h2l.jpg",
       "PackagePath": "staticwebassets\\uploads\\pexels-nietjuh-872400_mvqzvjzm.h2l.jpg"
     },
     {
+      "Id": "D:\\Project\\AgroTrade\\AgroTrade\\wwwroot\\uploads\\pexels-nietjuh-872400_ouqrmzc0.3em.jpg",
+      "PackagePath": "staticwebassets\\uploads\\pexels-nietjuh-872400_ouqrmzc0.3em.jpg"
+    },
+    {
       "Id": "D:\\Project\\AgroTrade\\AgroTrade\\wwwroot\\uploads\\pexels-pixabay-533280_s1a4x0gx.qpq.jpg",
       "PackagePath": "staticwebassets\\uploads\\pexels-pixabay-533280_s1a4x0gx.qpq.jpg"
+    },
+    {
+      "Id": "D:\\Project\\AgroTrade\\AgroTrade\\wwwroot\\uploads\\pexels-pixabay-533280_tp5otcbc.wzz.jpg",
+      "PackagePath": "staticwebassets\\uploads\\pexels-pixabay-533280_tp5otcbc.wzz.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgroTrade.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -30,7 +30,7 @@ namespace AgroTrade.Controllers
                     
                     return RedirectToAction("Login");
                 }
-                ModelState.AddModelError("", "User already exists.");
+                TempData["ErrorMessage"] = "User already exists.";
             }
             else
             {

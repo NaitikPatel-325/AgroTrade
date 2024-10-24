@@ -58,8 +58,8 @@ namespace AgroTrade.Controllers
 
                 if (transactionViewModel.Quantity > crop.Quantity)
                 {
-                    TempData["ErrorMessage"] = "Applying more quantity which is not available";
-                    return View(transactionViewModel);
+                    TempData["ErrorMessage"] = "Applying more quantity than available.";
+                    return RedirectToAction("Buy", new { cropId = transactionViewModel.CropId });
                 }
 
                 var transaction = new Transaction
